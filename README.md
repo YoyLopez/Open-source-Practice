@@ -1416,7 +1416,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Yashika Goyal](https://github.com/yashika-45/)
   -  [Yashvi Goyal](https://github.com/yg2505)
   -  [Yash Gupta](https://github.com/yash-1104github)
-  -  [Yoy López](https://github.com/YoyLopez)
+  -  [Yoy Lopez](https://github.com/YoyLopez)
   | [`Back To Top`](#contents) |
 
 
